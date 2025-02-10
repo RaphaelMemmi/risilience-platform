@@ -12,6 +12,7 @@ A web application that displays global temperature data. This was very fun to ma
 ## Requirements
 
 - **Docker** and **Docker Compose** (recommended for running the application)
+- **Data File** - add the "tas...nc" data file into your local folder. The file was too big to push on here
 
 ## Project Structure
 
